@@ -1,6 +1,4 @@
 
-
-````markdown
 # To-Do List App using Python and Flask
 
 A simple To-Do List web application built with Python and Flask. Users can add, delete, and manage their tasks through a clean web interface.
